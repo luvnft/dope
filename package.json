@@ -20,6 +20,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.5",
     "@openzeppelin/contracts": "^4.9.3",
+    "@quicknode/sdk": "^2.1.1",
     "dotenv": "^16.0.3"
   }
 }

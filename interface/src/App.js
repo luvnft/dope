@@ -363,8 +363,8 @@ const App = () => {
           <header>
             {/* Header stuff here */}
             <div className="left">
-            <p className="title">🎉 DOPE ✨ Name 🎇 Service 🎊</p>
-            <p className="subtitle">🎭 Your immortal API on the Blockchain 🎨</p>
+            <p className="title">✨ .DOPE Name Service</p>
+            <p className="subtitle">Claim your [NAME].DOPE name on Polygon testnet blockchain</p>
             </div>
             {/* Display a logo and wallet connection status*/}
             <div className="right">
